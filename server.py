@@ -4,6 +4,12 @@ Honestly though. I really did not bother with this one, I just wanted to get SOM
 I promise my next projects will be better.
 
 by AuroSaurus
+===============
+
+usage:
+server.py HOST PORT
+
+===============
 '''
 
 from __future__ import print_function
