@@ -1,4 +1,3 @@
-#!/usr/bin/python
 '''
 PLEASE HAVE MERCY ON MY UGLY CODE.
 Honestly though. I really did not bother with this one, I just wanted to get SOMETHING out there to start off.
